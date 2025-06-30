@@ -21,14 +21,6 @@ A classic Tic Tac Toe (noughts and crosses) game built using **HTML**, **CSS**, 
 
 ---
 
-## 📂 Project Structure
-
-tic-tac-toe/
-├── index.html # Main HTML page
-├── style.css # Game styling
-└── script.js # Game functionality and logic
----
-
 ## ✅ Features
 
 - 🎯 Easy-to-use interface
